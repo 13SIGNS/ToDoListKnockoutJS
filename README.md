@@ -3,7 +3,7 @@ ToDo list portable app, uses KnockoutJS, BS, HTML, CSS and localStorage
 
 # DEMO
 
-[See demo](http://knockoutjstodolist.13signs.pl)
+[See demo](http://todolistknockoutjs.13signs.pl)
 
 # INSTALLATION
 
