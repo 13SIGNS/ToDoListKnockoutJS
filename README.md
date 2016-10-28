@@ -1,5 +1,5 @@
 # ToDoListKnockoutJS
-ToDo list portable app, uses KnockoutJS, BS, HTML, CSS and localStorage
+ToDo list very simple portable app, uses KnockoutJS, BS, HTML, CSS and localStorage
 
 # DEMO
 
